@@ -1,4 +1,4 @@
-# Discrod-Theme
+# Discord-Theme
 
                         Discord:Mr.  プロキシ#1107                                      
                                                                                              
