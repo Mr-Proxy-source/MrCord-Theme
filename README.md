@@ -1,13 +1,10 @@
 # Discrod-Theme
-This is mine discord theme created by me i hope you will like it !
 
                         Discord:Mr.  プロキシ#1107                                      
                                                                                              
                Support Server:https://discord.gg/FfC6HQdyhd                            
-                                                                                          
-                                                                                            
-                     Donate:noooreply.acount@gmail.com                                 
-
+                                                                                         
+                    Donate:noooreply.acount@gmail.com                                 
 
 # Look
 ![Look](https://user-images.githubusercontent.com/80650301/111208614-45c00700-85cb-11eb-9092-63568d4ca2c3.png)
