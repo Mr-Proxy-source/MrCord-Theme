@@ -1,0 +1,54 @@
+/**
+ * @name         Mister's Theme
+ * @description  ᴄʟɪᴄᴋ  ↧ ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ ꜱᴇʀᴠᴇʀ
+ * @author       Mr.  プロキシ#1107
+ * @version      1.0 created with ❦
+ * @invite       PQ36neFk
+ * @donate https://www.paypal.com/paypalme/Bypasssss
+ * @website https://github.com/Mr-Proxy-source
+ * @authorId     822146955127816223
+ */
+
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Kanit');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+
+:root {
+--themeColor1: #091025;
+--themeColor2: #091025;
+--main-transparency: #000000;
+--customFont: 'Kanit', sans-serif;
+--backgroundColor: #000000;
+--backgroundBlur: 0px;
+--backgroundOpacity: 1;
+--HSL-server-icon-size: 43px;
+--HSL-server-spacing: 10px;
+--backgroundImage: url('https://i.imgur.com/JOwEqqR.jpg');
+--unread-server-animation: rainbow;
+--main-color: #dcddde;
+--main-transparency: #091025;
+--hover-list-bg-color: #091025;
+--scroll-bar-color: #091025;
+--font-size: 16px;
+--selected-text-voice-color: #f6f6f7;
+--channel-hover-text-color: #091025;
+--unread-text-color: #dcddde;
+--user-popup-background: rgba(0, 0, 0, 0.8);
+}
+.titleBar-AC4pGV:not(.typeMacOS-3EmCyP)::after {
+  content: "᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼𐌑𐌓  𐌃𐌆𐌔𐌂o𐌓𐌃";
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  color: rgb(170, 170, 170);
+  display: block;
+  height: 16px;
+  width: fit-content;
+  pointer-events: none;
+  font-size: 19px;
+}
