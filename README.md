@@ -1,6 +1,6 @@
 # Discord-Theme (Source Updated)
 
-                        Discord:Mr.  プロキシ#1107                                      
+                             Discord:Cysc#0                                    
                                                                                              
                Support Server:https://discord.gg/PQ36neFk                           
                                                                                          
